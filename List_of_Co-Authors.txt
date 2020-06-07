@@ -1,0 +1,160 @@
+2008: Robert J. LeRoy
+2008: Amanda J. Ross
+2008: Colan Linton
+2009: John A. Coxon
+2009: Patrick Crozet
+2011: Dara PS McCutcheon
+2011: Erik M Gauger
+2011: Brendon W Lovett
+2011: Ahsan Nazir
+2012: Felix A. Pollock
+2012: David M. Wilkins
+2013: Mariusz Semczuk
+2013: Xuan Li
+2013: Will Gunton
+2013: Magnus Haw
+2013: Julien Witz
+2013: Arthur K. Mills
+2013: David J. Jones
+2013: Kirk W. Madison
+2013: Lila Kari
+2013: Kathleen A. Hill
+2013: Abu Sadat Sayem
+2013: Nathaniel Bryans
+2013: Katelyn Davis
+2014: Staszek Welsh
+2014: Mariusz Puchalski
+2014: Grzegorz Lach
+2014: Tung Wei-Cheng
+2014: Ludwik Adamowicz
+2014: Lindsay N. Zack
+2014: Ming Sun
+2014: Erin R. Johnson
+2014: Lucy M. Ziurys
+2015: Young-Sang Cho
+2015: Claude S. Amiot
+2015: Kai Slaughter
+2015: Lena C. M. Li Chun Fong
+2015: Richard Tanburn
+2015: Emile Okada
+2015: Oliver Lunt
+2015: Mikhail V. Altaisky
+2015: Nadezhda N. Zolnikova
+2015: Natalia E. Kaputkina
+2015: Victor A. Krylov
+2015: Yurii E. Lozovik
+2016: Sandeep Sharma
+2016: Ali Alavi
+2016: Michal Tomza
+2016: Giovanni LiManni
+2016: Richard Ngo
+2016: Toby Cathcard-Burn
+2017: Zhaokai Li
+2017: Xi Chen
+2017: Xiaomei Liu
+2017: Hengyan Wang
+2017: Hongwei Chen
+2017: Xinhua Peng
+2017: Jiangfeng Du
+2017: Andrew D. Powell
+2017: Rene F. K. Spada
+2017: Francisco B. C. Machado
+2017: Hans Lischka
+2017: Richard Dawes
+2019: Zhendong Li
+2019: Junhao Li
+2019: Cyrus J. Umrigar
+2019: Garnet Kin-Lic Chan
+2019: Szilard Szalay
+2019: Nicholas Chancellor
+2019: Korslund Hannah
+2019: Lan Cheng
+2019: Ignacio Fdez. Galván, 
+2019: Morgane Vacher
+2019: Celestino Angeli 
+2019: Francesco Aquilante
+2019: Jochen Autschbach 
+2019: Jie J. Bao
+2019: Sergey I. Bokarev
+2019: Nikolay A. Bogdanov
+2019: Rebecca K. Carlson
+2019: Liviu F. Chibotaru
+2019: Joel Creutzberg
+2019: Mickaël G. Delcey
+2019: Sijia S. Dong
+2019: Andreas Dreuw
+2019: Leon Freitag
+2019: Luis Manuel Frutos
+2019: Laura Gagliardi
+2019: Frédéric Gendron
+2019: Angelo Giussani
+2019: Leticia González
+2019: Gilbert Grell
+2019: Meiyuan Guo
+2019: Chad E. Hoyer
+2019: Marcus Johansson
+2019: Sebastian Keller
+2019: Stefan Knecht
+2019: Goran Kovačević
+2019: Erik Källman
+2019: Marcus Lundberg
+2019: Yingjin Ma
+2019: Sebastian Mai
+2019: João Pedro Malhado
+2019: Per Åke Malmqvist
+2019: Philipp Marquetand
+2019: Stefanie A. Mewes
+2019: Jesper Norell
+2019: Massimo Olivucci
+2019: Markus Oppel
+2019: Quan Manh Phung
+2019: Kristine Pierloot
+2019: Felix Plasser
+2019: Markus Reiher
+2019: Andrew M. Sand
+2019: Igor Schapiro
+2019: Prachi Sharma
+2019: Christopher J. Stein
+2019: Lasse Kragh Sørensen
+2019: Donald G. Truhlar
+2019: Mihkel Ugandi
+2019: Liviu Ungur
+2019: Alessio Valentini
+2019: Steven Vancoillie
+2019: Valera Veryazov
+2019: Oskar Weser
+2019: Tomasz A. Wesołowski
+2019: Per-Olof Widmark
+2019: Sebastian Wouters
+2019: Alexander Zech
+2019: J. Patrick Zobel
+2019: and Roland Lindh
+2019: Hou Tin Chau
+
+Publications where new co-authors first appeared:
+=============================================================================
+2008: https://kb.osu.edu/handle/1811/33507
+2009: https://aip.scitation.org/doi/abs/10.1063/1.3264688
+2011: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.84.081305
+2012: http://www.naturalspublishing.com/files/published/464k51t1luip94.pdf
+2013: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.87.052505
+2013: https://arxiv.org/abs/1307.3755
+2014: https://www.ideals.illinois.edu/handle/2142/51186
+2014: https://ui.adsabs.harvard.edu/abs/2014isms.confEFA02W/abstract
+2014: https://arxiv.org/abs/1408.2276
+2015: https://www.ideals.illinois.edu/handle/2142/79340
+2015: https://www.ideals.illinois.edu/handle/2142/79320
+2015: https://www.ideals.illinois.edu/handle/2142/79068
+2015: https://arxiv.org/abs/1508.04816
+2015: https://arxiv.org/abs/1510.07420
+2015: https://arxiv.org/abs/1503.05125
+2016: https://www.ideals.illinois.edu/handle/2142/91441
+2016: https://www.ideals.illinois.edu/handle/2142/91417
+2016: http://meetings.aps.org/Meeting/MAR17/Session/A51.12
+2017: https://arxiv.org/abs/1706.08061
+2017: https://aip.scitation.org/doi/abs/10.1063/1.4990673
+2019: https://aip.scitation.org/doi/abs/10.1063/1.5063376
+2019: https://arxiv.org/abs/1901.07636
+2019: https://www.ideals.illinois.edu/handle/2142/104477
+2019: https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00532
+2019: https://arxiv.org/abs/1910.13583
