@@ -158,3 +158,5 @@ Publications where new co-authors first appeared:
 2019: https://www.ideals.illinois.edu/handle/2142/104477
 2019: https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00532
 2019: https://arxiv.org/abs/1910.13583
+
+Missing GitHub papers with David Feller, Jacek Koput, Camilo Chaparro Sogamoso, Pankaj Gupta, etc.
