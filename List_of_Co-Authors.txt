@@ -130,6 +130,27 @@
 2019: J. Patrick Zobel
 2019: Roland Lindh
 2019: Hou Tin Chau
+2020: Kai Guther
+2020: Robert J. Anderson
+2020: Nicholas Stephen Blunt
+2020: Nikolay Bogdanov
+2020: Deidre Cleland
+2020: Werner Dobrautz
+2020: Khaldoon Ghanem
+2020: Peter Jeszenszki
+2020: Niklas Liebermann
+2020: Alexander Y Lozovoi
+2020: Hongjun Luo
+2020: Dongxia Ma
+2020: Florian Merz
+2020: Catherine Overy
+2020: Markus Rampp
+2020: Pradipta Kumar Samanta
+2020: Lauretta Schwarz
+2020: James J Shepherd
+2020: Simon Smart
+2020: Eugenio Vitale
+2020: George Henry Booth
 
 Publications where new co-authors first appeared:
 =============================================================================
