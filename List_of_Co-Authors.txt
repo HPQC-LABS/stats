@@ -130,6 +130,8 @@
 2019: J. Patrick Zobel
 2019: Roland Lindh
 2019: Hou Tin Chau
+2020: David Feller
+2020: Jacek Koput
 2020: Kai Guther
 2020: Robert J. Anderson
 2020: Nicholas Stephen Blunt
@@ -179,5 +181,7 @@ Publications where new co-authors first appeared:
 2019: https://www.ideals.illinois.edu/handle/2142/104477
 2019: https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00532
 2019: https://arxiv.org/abs/1910.13583
+2020: https://arxiv.org/abs/2006.13453 (on GitHub since 2018, and ShareLatex/Overleaf since 2017)
+2020: https://arxiv.org/abs/2006.14956
 
-Missing GitHub papers with David Feller, Jacek Koput, Camilo Chaparro Sogamoso, Pankaj Gupta, etc.
+Missing GitHub papers with Camilo Chaparro Sogamoso, Pankaj Gupta, etc.
