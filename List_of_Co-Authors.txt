@@ -185,3 +185,11 @@ Publications where new co-authors first appeared:
 2020: https://arxiv.org/abs/2006.14956
 
 Missing GitHub papers with Camilo Chaparro Sogamoso, Pankaj Gupta, etc.
+
+Co-authors with highest h-index: 
+=================================
+Don Truhlar: 176
+Laura Galgiardi: 75
+Markus Reiher: 74
+David Feller: 72
+
