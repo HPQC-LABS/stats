@@ -193,3 +193,15 @@ Laura Galgiardi: 75
 Markus Reiher: 74
 David Feller: 72
 
+Co-authors with 15,000+ citations:
+================================== 
+Don Truhlar, University of Minnisota, USA (177,647 citations)
+Per Ake Malmqvist, Lund University, Sweden (25,537 citations)
+Hans Lischka, Texas Tech University, USA (25,527 citations)
+Markus Reiher, ETH Zurich, Switzerland (22,859 citations)
+Roland Lindh, Uppsala University, Sweden (20,514 citations)
+David Feller, Washington State University, USA (19,828 citations)
+Laura Galgiardi, University of Chicago, USA (19,579 citations)
+Ludwik Adamowicz, Nicolas Copernicus University, Poland (17,260 citations)
+Erin Johnson, Dalhousie University, Canada (15,842 citations)
+
