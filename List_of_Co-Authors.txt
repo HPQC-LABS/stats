@@ -153,6 +153,8 @@
 2020: Simon Smart
 2020: Eugenio Vitale
 2020: George Henry Booth
+2021: Fabien Bruneval
+2021: Michiel J. van Setten
 
 Publications where new co-authors first appeared:
 =============================================================================
@@ -183,25 +185,30 @@ Publications where new co-authors first appeared:
 2019: https://arxiv.org/abs/1910.13583
 2020: https://arxiv.org/abs/2006.13453 (on GitHub since 2018, and ShareLatex/Overleaf since 2017)
 2020: https://arxiv.org/abs/2006.14956
+2021: https://doi.org/10.3389/fchem.2021.749779
 
 Missing GitHub papers with Camilo Chaparro Sogamoso, Pankaj Gupta, etc.
 
 Co-authors with highest h-index: 
 =================================
-Don Truhlar: 176
-Laura Galgiardi: 75
-Markus Reiher: 74
-David Feller: 72
+Don Truhlar:  185
+Markus Reiher: 78
+Hans Lischka:  75
+David Feller:  74
+Roland Lindh:  73
 
-Co-authors with 15,000+ citations:
+Co-authors with 10,000+ citations:
 ================================== 
-Don Truhlar, University of Minnisota, USA (177,647 citations)
-Per Ake Malmqvist, Lund University, Sweden (25,537 citations)
-Hans Lischka, Texas Tech University, USA (25,527 citations)
-Markus Reiher, ETH Zurich, Switzerland (22,859 citations)
-Roland Lindh, Uppsala University, Sweden (20,514 citations)
-David Feller, Washington State University, USA (19,828 citations)
-Laura Galgiardi, University of Chicago, USA (19,579 citations)
-Ludwik Adamowicz, Nicolas Copernicus University, Poland (17,260 citations)
-Erin Johnson, Dalhousie University, Canada (15,842 citations)
-
+Don Truhlar      (198,425 citations, h-index 185)
+Hans Lischka      (29,983 citations, h-index 75)
+Per Ake Malmqvist (28,446 citations, h-index 56) 
+Markus Reiher     (26,445 citations, h-index 78)
+Laura Galgiardi   (24,461 citations, h-index 55)
+Roland Lindh      (22,372 citations, h-index 73)
+David Feller      (20,784 citations, h-index 74)
+Erin Johnson      (19,622 citations, h-index 45)
+Ludwik Adamowicz  (18,172 citations, h-index 65)
+Garnet Chan       (16,171 citations, h-index 66)
+Bob Le Roy        (12,985 citations, h-index 54)
+Ali Alavi         (12,353 citations, h-index 59)
+Cyrus Umrigar     (10,006 citations, h-index 52)
