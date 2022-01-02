@@ -6,11 +6,14 @@ Journal of Chemical Physics (x4). Impact factor: 3
  - https://aip.scitation.org/doi/abs/10.1063/1.5063376
  - https://aip.scitation.org/doi/10.1063/5.0005754
  
- Physical Review (x3). Impact factor: 3.5
-  - https://journals.aps.org/prb/abstract/10.1103/PhysRevB.84.081305
-  - https://journals.aps.org/pra/abstract/10.1103/PhysRevA.87.052505
-  - https://journals.aps.org/pra/abstract/10.1103/PhysRevA.88.062510
+Physical Review (x3). Impact factor: 3.5
+ - https://journals.aps.org/prb/abstract/10.1103/PhysRevB.84.081305
+ - https://journals.aps.org/pra/abstract/10.1103/PhysRevA.87.052505
+ - https://journals.aps.org/pra/abstract/10.1103/PhysRevA.88.062510
   
-  Journal of Chemical Theory and Computation (x2). Impact factor: 5
-  - https://pubs.acs.org/doi/abs/10.1021/ct501066k
-  - https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00532
+Journal of Chemical Theory and Computation (x2). Impact factor: 5
+ - https://pubs.acs.org/doi/abs/10.1021/ct501066k
+ - https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00532
+
+Frontiers in Chemistry. Impact factor 3.994
+ - https://www.frontiersin.org/articles/10.3389/fchem.2021.749779/full
