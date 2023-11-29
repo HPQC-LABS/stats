@@ -155,6 +155,90 @@
 2020: George Henry Booth
 2021: Fabien Bruneval
 2021: Michiel J. van Setten
+2023: C Aguiar
+2023: M Camps
+2023: Ihosvany Camps
+
+2023 OpenMolcas
+
+2024: Gordon Arrowsmith-Kron
+2024: Michail Athanasakis-Kaklamanakis
+2024: Mia Au 
+2024: Jochen Ballof 
+2024: Robert Berger 
+2024: Anastasia Borschevsky
+2024: Alexander A Breier
+2024: Fritz Buchinger
+2024: Dmitry Budker
+2024: Luke Caldwell 
+2024: Christopher Charles
+2024: Ruben P de Groote
+2024: David DeMille
+2024: Timo Dickel
+2024: Jacek Dobaczewski
+2024: Christoph E Düllmann
+2024: Ephraim Eliav
+2024: Jon Engel
+2024: Mingyu Fan
+2024: Victor Flambaum
+2024: Kieran T Flanagan
+2024: Alyssa Gaiser
+2024: Ronald Garcia Ruiz
+2024: Konstantin Gaul
+2024: Thomas F Giesen
+2024: Jacinda Ginges
+2024: Alexander Gottberg
+2024: Gerald Gwinner
+2024: Reinhard Heinke
+2024: Steven Hoekstra
+2024: Jason D Holt
+2024: Nicholas R Hutzler
+2024: Andrew Jayich
+2024: Jonas Karthein
+2024: Kyle G Leach
+2024: Stephan Malbrunot-Ettenauer
+2024: Takayuki Miyagi
+2024: Iain D Moore
+2024: Scott Moroch
+2024: Petr Navrátil
+2024: Witold Nazarewicz
+2024: Gerda Neyens
+2024: Eric Norrgard
+2024: Nicholas Nusgart
+2024: Lukáš F Pašteka
+2024: Alexander N Petrov
+2024: Wolfgang Plass
+2024: Roy A Ready
+2024: Moritz Pascal Reiter
+2024: Mikael Reponen
+2024: Sebastian Rothe
+2024: Marianna Safronova
+2024: Christoph Scheidenberger
+2024: Andrea Shindler
+2024: Jaideep T Singh
+2024: Leonid V Skripnikov
+2024: Anatoly V Titov
+2024: Silviu-Marian Udrescu
+2024: Shane G Wilkins
+2024: Xiaofei Yang
+2024: Kewin Otazu
+2024: Gustavo E. Olivos-Ramirez
+2024: Pablo D. Fernandez-Silva
+2024: Julissa Vilca-Quispe
+2024: Karolyn Vega-Chozo
+2024: Gabriel M. Jimenez-Avalos
+2024: Manuel E. Chenet-Zuta
+2024: Frida E. Sosa-Amay
+2024: Reyna Gladys Cardenas De Reategui
+2024: Georcki Ropon-Palacios
+2024: Manuel Chenet Zuta
+2024: Jean Pierre Ramos Galarza
+2024: Edinson Gervacio Villarreal
+2024: Jhon Perez Silva
+2024: Ivonne Navarro del Aguila
+2024: Henry Delgado Wong
+2024: Rajesh B Patil
+2024: Abu Tayab Moin
 
 Publications where new co-authors first appeared:
 =============================================================================
@@ -186,16 +270,22 @@ Publications where new co-authors first appeared:
 2020: https://arxiv.org/abs/2006.13453 (on GitHub since 2018, and ShareLatex/Overleaf since 2017)
 2020: https://arxiv.org/abs/2006.14956
 2021: https://doi.org/10.3389/fchem.2021.749779
+2023: https://www.sciencedirect.com/science/article/abs/pii/S0169433222028860
+2023: https://pubs.acs.org/doi/full/10.1021/acs.jctc.3c00182
 
 Missing GitHub papers with Camilo Chaparro Sogamoso, Pankaj Gupta, etc.
 
 Co-authors with highest h-index: 
 =================================
-Don Truhlar:  185
-Markus Reiher: 78
-Hans Lischka:  75
-David Feller:  74
-Roland Lindh:  73
+Don Truhlar:         195
+Witold Nazarewicz:   109
+Laura Gagliardi:      91
+Markus Reiher:        87
+Dmitry Budker:        80
+Hans Lischka:         78
+Roland Lindh:         78
+David Feller:         76
+Garnet Kin-Lic Chan:  75
 
 Co-authors with 10,000+ citations:
 ================================== 
